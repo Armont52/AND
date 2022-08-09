@@ -24,5 +24,5 @@ execute store result score time counter run time query daytime
 
 #bossbar
 scoreboard players remove bar counter 1
-execute if score bar counter matches ..0 run scoreboard players set bar counter 200
+execute if score bar counter matches ..0 run function unicraft:counter/notice
 execute store result bossbar minecraft:announcement value run scoreboard players get bar counter
