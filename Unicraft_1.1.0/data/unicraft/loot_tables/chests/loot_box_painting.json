@@ -1,0 +1,201 @@
+{
+    "type": "chest",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 2,
+            "name": "minecraft:map",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "name": "minecraft:filled_map",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{map:282}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "name": "minecraft:filled_map",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{map:281}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "name": "minecraft:filled_map",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{map:280}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "name": "minecraft:filled_map",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{map:279}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "name": "minecraft:filled_map",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{map:278}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "name": "minecraft:filled_map",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{map:277}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "name": "minecraft:filled_map",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{map:276}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "name": "minecraft:filled_map",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{map:275}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "name": "minecraft:filled_map",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{map:274}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "name": "minecraft:filled_map",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{map:273}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "name": "minecraft:filled_map",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{map:272}"
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "name": "minecraft:filled_map",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              },
+              {
+                "function": "set_nbt",
+                "tag": "{map:271}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

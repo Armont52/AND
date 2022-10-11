@@ -1,0 +1,370 @@
+{
+  "type": "chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 10,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:33,Amplifier:1b,Duration:400}],CustomPotionColor:2237468}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "어둠의 물약",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 25,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:32,Amplifier:1b,Duration:400}],CustomPotionColor:65450}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "영웅의 물약",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 25,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:31,Amplifier:1b,Duration:400}],CustomPotionColor:9502720}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "흉조의 물약",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 16,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:30,Amplifier:1b,Duration:400}],CustomPotionColor:13946317}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "돌고래의 가호가 깃든 물약",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 21,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:29,Amplifier:1b,Duration:400}],CustomPotionColor:255}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "전달체 농축액",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 70,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"minecraft:water\"}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "삼다수",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 27,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:3,Amplifier:1b,Duration:400}],CustomPotionColor:16772608}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "성급함의 물약",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 21,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:4,Amplifier:1b,Duration:400}],CustomPotionColor:6710886}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "채굴 피로의 물약",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 39,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:15,Amplifier:1b,Duration:400}],CustomPotionColor:0}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "실명의 물약",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 40,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:17,Amplifier:1b,Duration:400}],CustomPotionColor:4112958}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "허기의 물약",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 19,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:20,Amplifier:1b,Duration:400}],CustomPotionColor:2818112}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "시듦의 물약",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 39,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:24,Amplifier:1b,Duration:400}],CustomPotionColor:16776960}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "발광의 물약",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 21,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:25,Amplifier:1b,Duration:400}],CustomPotionColor:61183}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "공중 부양의 물약",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 33,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:26,Amplifier:1b,Duration:400}],CustomPotionColor:655104}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "행운의 물약",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 33,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomPotionEffects:[{Id:27,Amplifier:1b,Duration:400}],CustomPotionColor:16711680}"
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "불운의 물약",
+                  "italic": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
