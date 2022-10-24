@@ -20,6 +20,15 @@ execute as @a[scores={pay=2,ps=410}] run scoreboard players set @s pc 3
 execute as @a[scores={pay=2,ps=411}] run scoreboard players set @s pc 3
 execute as @a[scores={pay=2,ps=412}] run scoreboard players set @s pc 3
 execute as @a[scores={pay=2,ps=413}] run scoreboard players set @s pc 5
+execute as @a[scores={pay=2,ps=414}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=415}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=416}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=417}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=418}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=419}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=420}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=421}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=422}] run scoreboard players set @s pc 3
 
 # Pizzaria Steve (5)
 execute as @a[scores={pay=2,ps=501}] run scoreboard players set @s pc 7
@@ -41,6 +50,31 @@ execute as @a[scores={pay=2,ps=608}] run scoreboard players set @s pc 3
 execute as @a[scores={pay=2,ps=609}] run scoreboard players set @s pc 2
 execute as @a[scores={pay=2,ps=610}] run scoreboard players set @s pc 2
 execute as @a[scores={pay=2,ps=611}] run scoreboard players set @s pc 2
+execute as @a[scores={pay=2,ps=612}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=613}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=614}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=615}] run scoreboard players set @s pc 2
+execute as @a[scores={pay=2,ps=616}] run scoreboard players set @s pc 2
+execute as @a[scores={pay=2,ps=617}] run scoreboard players set @s pc 2
+execute as @a[scores={pay=2,ps=618}] run scoreboard players set @s pc 2
+execute as @a[scores={pay=2,ps=619}] run scoreboard players set @s pc 2
+execute as @a[scores={pay=2,ps=620}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=621}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=622}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=623}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=624}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=625}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=626}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=627}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=628}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=629}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=630}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=631}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=632}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=633}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=634}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=635}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=636}] run scoreboard players set @s pc 3
 
 # Mike (8)
 execute as @a[scores={pay=2,ps=802}] run scoreboard players set @s pc 4
@@ -159,6 +193,50 @@ execute as @a[scores={pay=2,ps=1459}] run scoreboard players set @s pc 4
 execute as @a[scores={pay=2,ps=1460}] run scoreboard players set @s pc 4
 execute as @a[scores={pay=2,ps=1461}] run scoreboard players set @s pc 10
 execute as @a[scores={pay=2,ps=1462}] run scoreboard players set @s pc 10
+execute as @a[scores={pay=2,ps=1463}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1464}] run scoreboard players set @s pc 2
+execute as @a[scores={pay=2,ps=1465}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1466}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1467}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=1468}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1469}] run scoreboard players set @s pc 2
+execute as @a[scores={pay=2,ps=1470}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1471}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1472}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1473}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1474}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1475}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1476}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1477}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=1478}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=1479}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=1480}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=1481}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=1482}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=1483}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=1484}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=1485}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=1486}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=1487}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=1488}] run scoreboard players set @s pc 4
+execute as @a[scores={pay=2,ps=1489}] run scoreboard players set @s pc 4
+
+execute as @a[scores={pay=2,ps=1490}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1491}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1492}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1493}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1494}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1495}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1496}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1497}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1498}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=1499}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=14100}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=14101}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=14102}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=14103}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=14104}] run scoreboard players set @s pc 3
+execute as @a[scores={pay=2,ps=14105}] run scoreboard players set @s pc 3
 
 # Green Tymes (15)
 execute as @a[scores={pay=2,ps=1501}] run scoreboard players set @s pc 3
@@ -243,6 +321,12 @@ execute as @a[scores={pay=2,ps=3203}] run scoreboard players set @s pc 30
 execute as @a[scores={pay=2,ps=3204}] run scoreboard players set @s pc 30
 execute as @a[scores={pay=2,ps=3205}] run scoreboard players set @s pc 30
 execute as @a[scores={pay=2,ps=3206}] run scoreboard players set @s pc 30
+execute as @a[scores={pay=2,ps=3207}] run scoreboard players set @s pc 100
+execute as @a[scores={pay=2,ps=3208}] run scoreboard players set @s pc 100
+execute as @a[scores={pay=2,ps=3209}] run scoreboard players set @s pc 100
+execute as @a[scores={pay=2,ps=3210}] run scoreboard players set @s pc 100
+execute as @a[scores={pay=2,ps=3211}] run scoreboard players set @s pc 100
+execute as @a[scores={pay=2,ps=3212}] run scoreboard players set @s pc 100
 
 # Pet For Life (33)
 execute as @a[scores={pay=2,ps=3301}] run scoreboard players set @s pc 8
@@ -323,6 +407,12 @@ execute as @a[scores={pay=2,ps=20013}] run scoreboard players set @s pc 10
 execute as @a[scores={pay=2,ps=20014}] run scoreboard players set @s pc 10
 execute as @a[scores={pay=2,ps=20015}] run scoreboard players set @s pc 10
 execute as @a[scores={pay=2,ps=20016}] run scoreboard players set @s pc 10
+
+execute as @a[scores={pay=2,ps=20053}] run scoreboard players set @s pc 10
+execute as @a[scores={pay=2,ps=20054}] run scoreboard players set @s pc 10
+execute as @a[scores={pay=2,ps=20055}] run scoreboard players set @s pc 10
+execute as @a[scores={pay=2,ps=20056}] run scoreboard players set @s pc 10
+execute as @a[scores={pay=2,ps=20057}] run scoreboard players set @s pc 10
 
 #명화
 execute as @a[scores={pay=2,ps=20017}] run scoreboard players set @s pc 60
