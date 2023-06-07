@@ -1,1 +1,0 @@
-execute as @a[scores={bs=32,bc=0}] run scoreboard players reset @s bs
